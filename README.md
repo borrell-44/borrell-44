@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alexander</h1>
 <h3 align="center">A back-end developer from Puerto Rico</h3>
 
-- LinkedIn [https://www.linkedin.com/in/alexander-borrell-3a7678253/](https://www.linkedin.com/in/alexander-borrell-3a7678253/)
+- LinkedIn: [https://www.linkedin.com/in/alexander-borrell-3a7678253/](https://www.linkedin.com/in/alexander-borrell-3a7678253/)
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1RqyEl1ReMwFzUFJy2dHLSQpO-V-JS_c3/edit?usp=sharing&ouid=111755536672643357597&rtpof=true&sd=true](https://docs.google.com/document/d/1RqyEl1ReMwFzUFJy2dHLSQpO-V-JS_c3/edit?usp=sharing&ouid=111755536672643357597&rtpof=true&sd=true)
+- 📄 Resume: [https://docs.google.com/document/d/1RqyEl1ReMwFzUFJy2dHLSQpO-V-JS_c3/edit?usp=sharing&ouid=111755536672643357597&rtpof=true&sd=true](https://docs.google.com/document/d/1RqyEl1ReMwFzUFJy2dHLSQpO-V-JS_c3/edit?usp=sharing&ouid=111755536672643357597&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,3 +15,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=borrell-44&show_icons=true&theme=dark&locale=en&layout=compact" alt="borrell-44" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=borrell-44&show_icons=true&theme=dark&locale=en" alt="borrell-44" /></p>
+
+
