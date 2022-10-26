@@ -5,7 +5,6 @@
 
 - 📄 Resume: [https://docs.google.com/document/d/1RqyEl1ReMwFzUFJy2dHLSQpO-V-JS_c3/edit?usp=sharing&ouid=111755536672643357597&rtpof=true&sd=true](https://docs.google.com/document/d/1RqyEl1ReMwFzUFJy2dHLSQpO-V-JS_c3/edit?usp=sharing&ouid=111755536672643357597&rtpof=true&sd=true)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
