@@ -4,7 +4,7 @@
 
 
 <div class=HeadSticker align="center">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F251990541626720031%2F&psig=AOvVaw1tWB3SH_Tx4xF3IrJmbbfW&ust=1667484494620000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDJ2P7Vj_sCFQAAAAAdAAAAABAT" width="300"/>
+    <img src="https://hackaday.com/wp-content/uploads/2020/07/spinning-donut-thumb.gif?w=600&h=600" width="300"/>
 </div>
 
 <div id="badges" align="center">
