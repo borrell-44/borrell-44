@@ -12,7 +12,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
-  <a href="alexborrell44@gmail.com"><img src="https://img.shields.io/badge/EMAIL-purple?style=for-the-badge"></a>
   <a href='https://docs.google.com/document/d/1RqyEl1ReMwFzUFJy2dHLSQpO-V-JS_c3/edit?usp=sharing&ouid=111755536672643357597&rtpof=true&sd=true'><img src="https://img.shields.io/badge/RESUME-forestgreen?style=for-the-badge"></a>
 </div>
 
