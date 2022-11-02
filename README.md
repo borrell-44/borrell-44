@@ -4,7 +4,7 @@
 
 
 <div class=HeadSticker align="center">
-    <img src="https://media.giphy.com/media/1NYkJ0wTvncdXV5dN5/giphy.gif" width="300"/>
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F251990541626720031%2F&psig=AOvVaw1tWB3SH_Tx4xF3IrJmbbfW&ust=1667484494620000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDJ2P7Vj_sCFQAAAAAdAAAAABAT" width="300"/>
 </div>
 
 <div id="badges" align="center">
@@ -16,10 +16,6 @@
   <a href='https://docs.google.com/document/d/1RqyEl1ReMwFzUFJy2dHLSQpO-V-JS_c3/edit?usp=sharing&ouid=111755536672643357597&rtpof=true&sd=true'><img src="https://img.shields.io/badge/RESUME-forestgreen?style=for-the-badge"></a>
 </div>
 
-
-- LinkedIn: [https://www.linkedin.com/in/alexander-borrell-3a7678253/](https://www.linkedin.com/in/alexander-borrell-3a7678253/)
-
-- 📄 Resume: [https://docs.google.com/document/d/1RqyEl1ReMwFzUFJy2dHLSQpO-V-JS_c3/edit?usp=sharing&ouid=111755536672643357597&rtpof=true&sd=true](https://docs.google.com/document/d/1RqyEl1ReMwFzUFJy2dHLSQpO-V-JS_c3/edit?usp=sharing&ouid=111755536672643357597&rtpof=true&sd=true)
 
 <p align="left">
 </p>
